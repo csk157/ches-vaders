@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, InvadersActivity!</string>
+    <string name="app_name">AndEngine - Space invaders tutorial</string>
+    <string name="Ches">Ches</string>
+    <string name="Vaders">Vaders</string>
+    <string name="Start">Let the crap begin!</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="enterName">Enter your name</string>
+
+</resources>
